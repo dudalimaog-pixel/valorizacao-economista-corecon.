@@ -20,7 +20,7 @@ Descrever as necessidades de valorização e o interesse em certificação profi
 
 ## Estrutura de pastas
 ```
-/plano      E03_equipeXX_plano.pdf
+/plano      E03_equipeC_plano.pdf
 /dados      respostas do questionário (sem identificação)
 /analise    tabelas e gráficos
 /relatorio  versão final
